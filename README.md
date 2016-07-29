@@ -5,7 +5,7 @@ The following project is mainly for testing data visualization methods; specific
 # Data-Visualization
 
 
-	The first question we attempt to answer is how different are the ratings given by Metacritic, Rotten Tomato, and IMDB?
+The first question we attempt to answer is how different are the ratings given by Metacritic, Rotten Tomato, and IMDB?
 ![alt tag](https://github.com/allenlu95/Data-Visualization/blob/master/download%20(7).png)
 
 
