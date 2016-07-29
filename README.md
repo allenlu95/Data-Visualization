@@ -1,6 +1,10 @@
+#Data set info
+The data used is from the following:
+https://github.com/apalbright/Pixar/blob/master/Pixar.csv
+The following project is mainly for testing data visualization methods; specifically, we look and compare line plots, box plots, bar plots and stacked bar plots using pixar movie reviews.  
 # Data-Visualization
 
-The following project is mainly for testing data visualization methods; specifically, we look and compare line plots, box plots, bar plots and stacked bar plots.  
+
 	The first question we attempt to answer is how different are the ratings given by Metacritic, Rotten Tomato, and IMDB?
 ![alt tag](https://github.com/allenlu95/Data-Visualization/blob/master/download%20(7).png)
 
